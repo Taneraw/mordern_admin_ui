@@ -50,16 +50,26 @@
                 <p>
                     <center>Admin PANEL</center>
                 </p>
+                <input type="hidden" value="data 1 here" />
+                <input type="hidden" value="data 2 here" />
+                <input type="hidden" value="data 3 here" />
                 <div class="input-group">
                     <span class="input-group-addon"><i class="icon_profile"></i></span>
                     <input name="username" type="text" class="form-control" placeholder="Username" autofocus>
                 </div>
+                <input type="hidden" value="data 1 here" />
+                <input type="hidden" value="data 2 here" />
+                <input type="hidden" value="data 3 here" />
                 <div class="input-group">
                     <span class="input-group-addon"><i class="icon_key_alt"></i></span>
                     <input name="password" type="password" class="form-control" placeholder="Password">
                 </div>
 
                 <button class="btn btn-primary btn-lg btn-block" type="submit">Login</button>
+                <input type="hidden" value="data 1 here" />
+                <input type="hidden" value="data 2 here" />
+                <input type="hidden" value="data 3 here" />
+                
                 <p>
                     <center>Copyright @ 2020 E-Commerce <br>Designed By - <a
                             href="https://www.linkedin.com/in/prateek-sharma-0007/" target="_blank">Prateek Sharma</a>
